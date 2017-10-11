@@ -2,7 +2,7 @@
 
 </head>
 
-<body bgcolor="pink">
+<body bgcolor="blue">
 
 <h1>hola<h1>
 
